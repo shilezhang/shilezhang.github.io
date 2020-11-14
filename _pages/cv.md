@@ -38,15 +38,15 @@ PUBLICATIONS
   
 PROJECTS
 ======
- * Improving Vulnerable Road Users’ Safety Based on Computer-Vision Technologies (PhaseⅠ) 
+* Improving Vulnerable Road Users’ Safety Based on Computer-Vision Technologies (PhaseⅠ) 
   * Florida Department of Transportation 
   * Aug 2020-Aug 2021 (Expected)
 * Connecting the East Orlando Communities Project (PhaseⅠ, Smart Garage) 
   * Federal Highway Administration (FHWA) ATCMTD 
   * Aug 2019 – Aug 2020 
 * Using Smartphone as On Board Unit (OBU) Emulator Implementation Study 
- * Florida Department of Transportation 
- * Aug 2018-Aug 2019
+  * Florida Department of Transportation 
+  * Aug 2018-Aug 2019
 
 ORGANIZATIONS
 ======
@@ -59,11 +59,8 @@ ORGANIZATIONS
 CERTIFICATION AND LICENSES 
 ======
 * Coursera
- * Getting Started with AWS Machine Learning 
- * https://www.coursera.org/account/accomplishments/certificate/V9SA78DBNJ29 
+  * Getting Started with AWS Machine Learning (https://www.coursera.org/account/accomplishments/certificate/V9SA78DBNJ29)
 * Florida Board of Professional Engineers 
- * Engineer [Intern] 
- * https://account.ncees.org/rn/2057425-1334109-c629ac6 
+  * Engineer [Intern] (https://account.ncees.org/rn/2057425-1334109-c629ac6) 
 * Coursera
- * Computer Vision Basics 
- * https://www.coursera.org/account/accomplishments/certificate/9QUHWSP55J23 
+  * Computer Vision Basics (https://www.coursera.org/account/accomplishments/certificate/9QUHWSP55J23)

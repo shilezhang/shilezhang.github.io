@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate at UCF"
   location         : "Orlando, USA"
   employer         :

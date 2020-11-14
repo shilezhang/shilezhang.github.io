@@ -59,8 +59,8 @@ ORGANIZATIONS
 CERTIFICATION AND LICENSES 
 ======
 * Coursera
-  * Getting Started with AWS Machine Learning (https://www.coursera.org/account/accomplishments/certificate/V9SA78DBNJ29)
+  * [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/V9SA78DBNJ29)
 * Florida Board of Professional Engineers 
-  * Engineer [Intern] (https://account.ncees.org/rn/2057425-1334109-c629ac6) 
+  * [Engineer Intern](https://account.ncees.org/rn/2057425-1334109-c629ac6) 
 * Coursera
-  * Computer Vision Basics (https://www.coursera.org/account/accomplishments/certificate/9QUHWSP55J23)
+  * [Computer Vision Basics](https://www.coursera.org/account/accomplishments/certificate/9QUHWSP55J23)

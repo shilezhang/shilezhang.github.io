@@ -49,4 +49,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=v_Ugz7zUN40" frameborder="0" allowfullscreen></iframe>
+
+<!-- <video>width="420" height="315" src="/assets/onsight_17Mar02.avi" frameborder="0" allowfullscreen></video> -->
+
+

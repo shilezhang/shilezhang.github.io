@@ -9,51 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATIONS
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Traffic Engineering, Southeast University, 2012
+* M.S. in Smart Cities, University of Central Florida, 2020
+* SAS Data Mining Certificate, Univeristy of Central Florida, 2021 Spring (expected)
+* Ph.D in Civil Engineering, University of Central Florida, 2021 Spring (expected)
 
-Work experience
+SOFTWARE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Programming languages
+  * Python, MATLAB, SQL
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Traffic software
+  * AutoCAD, TransCAD, NADS MiniSim, ArcGIS
+* Statistical software 
+  * R, SAS
+* Other software 
+  * Microsoft Office, Latex
 
-Publications
+
+
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+PROJECTS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * Improving Vulnerable Road Users’ Safety Based on Computer-Vision Technologies (PhaseⅠ) 
+  * Florida Department of Transportation 
+  * Aug 2020-Aug 2021 (Expected)
+* Connecting the East Orlando Communities Project (PhaseⅠ, Smart Garage) 
+  * Federal Highway Administration (FHWA) ATCMTD 
+  * Aug 2019 – Aug 2020 
+* Using Smartphone as On Board Unit (OBU) Emulator Implementation Study 
+ * Florida Department of Transportation 
+ * Aug 2018-Aug 2019
+
+ORGANIZATIONS
+======
+* Institute of Transportation Engineers (ITE) at UCF 
+  * Executive Board  
+* Woman in Transportation (Central Florida Chapter) 
+  * Member 
   
-Teaching
+
+CERTIFICATION AND LICENSES 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Coursera
+ * Getting Started with AWS Machine Learning 
+ * https://www.coursera.org/account/accomplishments/certificate/V9SA78DBNJ29 
+* Florida Board of Professional Engineers 
+ * Engineer [Intern] 
+ * https://account.ncees.org/rn/2057425-1334109-c629ac6 
+* Coursera
+ * Computer Vision Basics 
+ * https://www.coursera.org/account/accomplishments/certificate/9QUHWSP55J23 

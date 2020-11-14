@@ -2,11 +2,13 @@
 title: "Prediction of Pedestrians’ Near-accident Events at Signalized Intersections Using Gated Recurrent Unit (GRU)"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper uses Generalized Extreme Distribution (GEV) and Gated Recurrent Unit (GRU) neural network to predict pedestrians' near-accident events.'
+excerpt: "This paper uses Generalized Extreme Distribution (GEV) and Gated Recurrent Unit (GRU) neural network to predict pedestrians\\' near-accident events."
 date: 2020-11-01
-venue: 'Accident Analysis and Prevention'
+venue: "Accident analysis and prevention"
 
-paperurl: 'https://doi.org/10.1016/j.aap.2020.105844'
+paperurl: "https://doi.org/10.1016/j.aap.2020.105844"
+
+---
 
 
 [Download paper here](http://shilezhang.github.io/files/paper3.pdf)

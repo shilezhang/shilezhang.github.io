@@ -21,6 +21,7 @@ tags:
   * [Reference Manual (Civil)](http://shilezhang.github.io/files/fe-handbook-9-5.pdf)
   * [Coursera Course](https://www.coursera.org/learn/fe-exam)
   * [A Youtuber](https://www.youtube.com/channel/UCi5EevloEiXIk6VNWYaNNSQ)
+  * [Find books](https://www.scribd.com/)
 * Practice Exams:
   * 2020 Practice Exam [download here](http://shilezhang.github.io/files/practice_exam1.pdf)
   

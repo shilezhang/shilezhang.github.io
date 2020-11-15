@@ -1,5 +1,6 @@
 ---
-permalink: /
+permalink: /about
+<!-- permalink: / -->
 title: "Personal Website"
 excerpt: "About me"
 author_profile: true
